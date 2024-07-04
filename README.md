@@ -3,7 +3,7 @@
 
 # Araç Algılama Uygulaması
 
-Bu proje, YOLO (You Only Look Once) nesne algılama modeli kullanılarak görüntülerdeki araçları algılamak ve görselleştirmek için yapılmış bir örnektir.
+Bu proje, YOLO (You Only Look Once) nesne algılama modeli kullanılarak görüntülerdeki araçları ve trafik ışıklarını algılamak ve görselleştirmek için yapılmış bir örnektir.
 
 ## Kurulum
 
